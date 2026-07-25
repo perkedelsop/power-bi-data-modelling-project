@@ -90,8 +90,6 @@ Through this project, I gained practical experience with:
 
 ---
 
----
-
 ## Technologies Used
 
 * Microsoft Power BI Desktop
